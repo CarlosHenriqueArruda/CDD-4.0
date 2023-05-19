@@ -2,7 +2,7 @@ from random import choice
 ################ INICIO ################
 print("-- Jogo da Forca --")
 print("Advinhe o nome o Jungler")
-lista = ["Wukong", "Sylas", "Amumu", "Sejuani", "Vi"]
+lista = ["Wukong", "Sylas", "Amumu", "Sejuani", "Vi","Viego]
 palavra = choice(lista)
 print(palavra)
 
