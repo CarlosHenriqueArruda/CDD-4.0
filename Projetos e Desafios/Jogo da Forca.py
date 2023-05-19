@@ -5,7 +5,7 @@
 from random import choice
 print("-- Jogo da Forca --")
 print("Advinhe o nome o Jungler")
-lista = ["wukong", "sylas", "amumu", "sejuani", "elise"]
+lista = ["wukong", "sylas", "amumu", "sejuani", "elise", "Rammus", "Rengar", "Graves", "Maokai", "Gragas", "Viego","Qiyana", "Rek'Sai", "Hecarim", "Nidalle","XinZhao","Kha-Zix","Fiddlesticks","Udyr","Evelynn","Jarvan IV","Zac","Kayn","Lilia","Ivern","Ekko","Leesin","Shaco","MasterYi","Karthus","Diana","Talon","Nocturne","Poppy","Nunu","Neeko","Kindred","Bel'veth","Zed"]
 palavra = choice(lista)
 
 ################ CONTADOR DE LETRAS ################
