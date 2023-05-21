@@ -4,7 +4,7 @@
 class Pessoa: #Nome da classe
     #Criando nova classe "Pessoa"
     #definindo Metodos/caracteristicas abaixo
-    def __init__(self,nome,peso,idade,comendo=False,falando=False):
+    def __init__(self,nome,peso,idade,comendo=False,falando=False): #array
         # adicionando uma variavel para cada metodo
         self.nome=nome
         self.peso=peso
